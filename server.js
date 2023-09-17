@@ -1,1 +1,0 @@
-console.log("Halo semuanya, disini saya akan membuat RESTful API")
